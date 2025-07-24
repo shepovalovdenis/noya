@@ -1,0 +1,8 @@
+{
+  "name": "noya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shepovalovdenis/noya.git",
+  "author": "Denis Kuzin <deniskuzin@Deniss-MacBook-Pro.local>",
+  "license": "MIT"
+}
